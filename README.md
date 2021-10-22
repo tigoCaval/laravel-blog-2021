@@ -24,6 +24,10 @@
 7. Configurar banco de dados (.env)
 8. Executar comando ```php artisan migrate``` (migrar tabela sql) 
 
+## Contribuidores
+
+ - [list of contributors](https://github.com/tigoCaval/laravel-blog-2021/graphs/contributors)
+
 ## Licença
 
 Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/laravel-blog-2021/blob/main/LICENSE).
