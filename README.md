@@ -1,4 +1,10 @@
 ## Sistema Blog 
+
+
+[![paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=ZQRM3T5WG7JL4) 
+|
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=9BQYV7FVREN92)
+
 [Clique aqui Vídeo](https://youtu.be/hT_EVV9ThCk)
 ## Ferramentas e Versão
 
